@@ -7,4 +7,30 @@
 html {
   font-size: 24px;
   color: #144031;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+  text-decoration: none;
+}
+header {
+  width: 480px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+  text-align: left;
+  padding: 1rem 0 1rem;
+}
+
+body {
+  width: 480px;
 }
