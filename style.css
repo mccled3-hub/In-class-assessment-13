@@ -31,6 +31,7 @@ h1 {
   background-color: black;
   text-align: left;
   padding: 1rem 0 1rem;
+  font-size: 15px; 
 }
 
 p {
@@ -73,13 +74,13 @@ section {
 }
 
 .img2 {
-  background-color: red;
+  background-color: blue;
   grid-column: 1;
   grid-row: 2;
 }
 
 .img3 {
-  background-color: red;
+  background-color: yellow;
   grid-column: 2;
   grid-row: 3;
 }
