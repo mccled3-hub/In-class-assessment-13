@@ -23,6 +23,7 @@ a:hover {
 }
 header {
   width: 480px;
+  padding-bottom: .5rem;
 }
 
 h1 {
@@ -47,6 +48,7 @@ h2 {
 
 section {
   width: 480px;
+  padding-bottom: 3rem;
   display: grid;
   grid-template-columns: 2fr 240px;
   grid-template-rows: 3fr 240px;
