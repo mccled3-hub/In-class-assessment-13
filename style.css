@@ -47,8 +47,8 @@ h2 {
 section {
   width: 480px;
   display: grid;
-  grid-template: repeat(3, 240px) / repeat(2, 240px);
-  padding: 1rem 1rem 1rem 1rem;
+  grid-template-columns: 2fr 240px;
+  grid-template-rows: 3fr 240px;
 }
 
 .one {
